@@ -1,6 +1,4 @@
-# javascript-grammar
-
-## 00.BASIC
+ 
 001. [기본출력](https://github.com/Im-Seon/javascript-grammar/blob/main/00.BASIC/001.기본출력.md) 
 002. [기본사칙연산](https://github.com/Im-Seon/javascript-grammar/blob/main/00.BASIC/002.기본사칙연산.md) 
 003. [빠른출력](https://github.com/Im-Seon/javascript-grammar/blob/main/00.BASIC/003.빠른출력.md) 
@@ -15,4 +13,3 @@
 012. [집합자료형](https://github.com/Im-Seon/javascript-grammar/blob/main/00.BASIC/012.집합자료형.md) 
 013. [소수점 아래 특정 자리에서 반올림](https://github.com/Im-Seon/javascript-grammar/blob/main/00.BASIC/013.소수점 아래 특정 자리에서 반올림.md) 
 014. [이스케이프 시퀀스](https://github.com/Im-Seon/javascript-grammar/blob/main/00.BASIC/014.이스케이프 시퀀스.md) 
----
